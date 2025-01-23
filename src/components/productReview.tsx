@@ -53,7 +53,7 @@ const ProductReviews = () => {
   };
 
   return (
-    <div className="p-6 w-full absolute top-[1140px] left-0 right-0 bottom-0">
+    <div className="p-6 w-full absolute lg:top-[1140px] left-0 right-0 bottom-0 xxs:top-[100px]">
       {/* Buttons to toggle sections */}
       <div className="flex gap-[300px] justify-center items-center">
         <button
